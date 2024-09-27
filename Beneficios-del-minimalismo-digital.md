@@ -19,4 +19,4 @@ Todo esto, nos salvará de estar como en la siguiente imagen, sin siquiera darno
 
 ![](assets/information-overload-nyt.jpg) <br><br>
 
-[Volver a página principal](Que-es.md)
+[Volver a página principal](README.md)
