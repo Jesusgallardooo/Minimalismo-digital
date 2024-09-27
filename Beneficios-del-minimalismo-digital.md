@@ -14,3 +14,7 @@ a cabo este proceso con creces, nos ***traerá una serie de beneficios*** que ag
 - Eliminación de distracciones innecesarias
 
 - Mayor tiempo para invertir en nosotros mismos.
+
+Todo esto, nos salvará de estar como en la siguiente imagen, sin siquiera darnos cuenta. <br><br>
+
+![](assets/information-overload-nyt.jpg)
