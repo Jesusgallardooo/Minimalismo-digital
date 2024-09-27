@@ -17,4 +17,6 @@ a cabo este proceso con creces, nos ***traerá una serie de beneficios*** que ag
 
 Todo esto, nos salvará de estar como en la siguiente imagen, sin siquiera darnos cuenta. <br><br>
 
-![](assets/information-overload-nyt.jpg)
+![](assets/information-overload-nyt.jpg) <br><br>
+
+[Volver a página principal](Que-es.md)
